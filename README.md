@@ -13,9 +13,12 @@ Retail managers often prioritize high-margin products for premium placement, but
 - **Data-Driven Recommendations**: Shows which strategy generates more total profit
 - **Flexible Input**: Analyze any products with cost, sell price, and demand data
 
-## Example Use Case
+## Demo
 
-Demonstrated with Publix frozen food endcap (3-door ONRZH unit), but applicable to any retail product category or display configuration.
+![FrostOptima Strategy Comparison](screenshot-strategy-comparison.png)
+
+*Live calculator showing profit analysis and strategy comparison for frozen food products.*
+
 
 ## Technical Implementation
 
@@ -43,5 +46,5 @@ This tool demonstrates how data analysis can validate or challenge conventional 
 
 ---
 
-**Built by [Your Name]**  
+**Built by Derek Loa**  
 Portfolio project demonstrating retail operations expertise + technical problem-solving
