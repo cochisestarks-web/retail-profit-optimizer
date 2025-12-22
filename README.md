@@ -12,13 +12,11 @@ Retail managers often prioritize high-margin products for premium placement, but
 - **Strategy Comparison**: Compare HIGH MARGIN vs. HIGH VOLUME approaches side-by-side
 - **Data-Driven Recommendations**: Shows which strategy generates more total profit
 - **Flexible Input**: Analyze any products with cost, sell price, and demand data
-
 ## Demo
 
-![FrostOptima Strategy Comparison](screenshot-strategy-comparison.png)
+![FrostOptima Strategy Comparison](retailmarginprofitcalculator.jpg)
 
 *Live calculator showing profit analysis and strategy comparison for frozen food products.*
-
 
 ## Technical Implementation
 
