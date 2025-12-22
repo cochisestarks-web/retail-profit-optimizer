@@ -27,7 +27,11 @@ Built with Google AI Studio Code Assistant using:
 
 ## Background
 
-After 20+ years in grocery retail, I identified a recurring pattern across all departments: management consistently overvalues margin percentage while undervaluing unit velocity. This tool proves optimal strategies with data instead of intuition.
+During 20+ years in grocery retail operations, I observed a common industry challenge: product placement decisions often rely on intuition and margin percentages rather than data-driven analysis of total profit potential. 
+
+High-margin items naturally seem like the best choice for premium placement, but without calculating total weekly profit (margin × velocity), stores may miss optimization opportunities.
+
+This tool demonstrates how data analysis can validate or challenge conventional assumptions about product prioritization strategies and make a clear decision based on data.
 
 ## Future Enhancements (v2.0)
 
