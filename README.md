@@ -21,7 +21,9 @@ This tool demonstrates how data analysis can validate or challenge conventional 
 
 ## Demo
 
-![FrostOptima Strategy Comparison](retailmarginprofitcalculator.jpg)
+**Status:** Live and functional
+
+🔗 [Try the Live Demo](https://frostoptima.vercel.app/) | [View Code](https://github.com/cochisestarks-web/retail-profit-optimizer)
 
 *Live calculator showing profit analysis and strategy comparison for frozen food products.*
 
