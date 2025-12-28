@@ -3,6 +3,7 @@
 Retail profit optimization tool that compares margin-focused vs. volume-focused product strategies.
 
 **[View Live App]((https://frostoptima.vercel.app/))** | **[GitHub Repository](https://github.com/cochisestarks-web/retail-profit-optimizer)**
+http://retailmarginprofitcalculator.jpg
 
 ## The Problem
 
